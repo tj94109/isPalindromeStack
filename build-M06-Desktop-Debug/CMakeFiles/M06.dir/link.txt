@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/M06.dir/main.cpp.o CMakeFiles/M06.dir/studentSolution.cpp.o  -o M06 

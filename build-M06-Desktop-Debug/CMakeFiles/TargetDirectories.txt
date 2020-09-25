@@ -1,0 +1,3 @@
+/home/tj/Documents/cPlusPlus/Homework/M06/build-M06-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/tj/Documents/cPlusPlus/Homework/M06/build-M06-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/tj/Documents/cPlusPlus/Homework/M06/build-M06-Desktop-Debug/CMakeFiles/M06.dir

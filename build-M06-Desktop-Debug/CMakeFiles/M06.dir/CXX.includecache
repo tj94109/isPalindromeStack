@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tj/Documents/cPlusPlus/Homework/M06/M06/main.cpp
+iostream
+-
+studentSolution.hpp
+/home/tj/Documents/cPlusPlus/Homework/M06/M06/studentSolution.hpp
+
+/home/tj/Documents/cPlusPlus/Homework/M06/M06/studentSolution.cpp
+stack
+-
+studentSolution.hpp
+/home/tj/Documents/cPlusPlus/Homework/M06/M06/studentSolution.hpp
+
+/home/tj/Documents/cPlusPlus/Homework/M06/M06/studentSolution.hpp
+
