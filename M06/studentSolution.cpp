@@ -7,20 +7,16 @@ using namespace std;
 
 bool isPalindromeStack(char* word){
     bool returnValue = true;
-
     int wordLength = 0;
-    stack<char> st;
     int n = 0;
     int j =0;
+    stack<char> st;
+
     while(word[n] != '\0')
         n++;
-//    cout << " size " << n << " ";
 
     for(int i = 0; i < n; i++)
         st.push(word[i]);
-
-//    cout << " st size " << st.size() << " \n";
-//    cout << " st top " << st.top() << " \n";
 
     while(!st.empty()){
         if (word[j] != st.top())
@@ -28,8 +24,6 @@ bool isPalindromeStack(char* word){
            st.pop();
            j++;
     }
-    //cout << "\n";
-
 
     return returnValue;
 }
